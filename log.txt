@@ -1,0 +1,19 @@
+Commit: 64a51c0344af09f9ffed3995bc41123b052294db
+Author: Abdessamad Cherkaoui <cherkaouiabdessamad9@gmail.com>
+Date:   Tue Oct 7 11:20:33 2025 +0200
+Message: testing code in javascript
+
+Commit: 14ca087a819d40ea541977eae1e2f289
+Author: Abdessamad Cherkaoui <cherkaouiabdessamad9@gmail.com>
+Date:   Tue Oct 7 11:15:50 2025 +0200
+Message: styling the project
+
+Commit: d3bad394e63cebb66246c10451de5c5667d8b90
+Author: Abdessamad Cherkaoui <cherkaouiabdessamad9@gmail.com>
+Date:   Tue Oct 7 11:10:45 2025 +0200
+Message: editing html file
+
+Commit: 3b3b0e2e83dbd6972f9a543cf177786d9c
+Author: Abdessamad Cherkaoui <cherkaouiabdessamad9@gmail.com>
+Date:   Tue Oct 7 11:05:34 2025 +0200
+Message: starting the project
